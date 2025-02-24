@@ -1,0 +1,20 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        
+    </head>
+    <body>
+        <img  align="left" src="C:\Users\Swetha B\Pictures\Saved Pictures\farm.jpg" alt="img not found" width="100px"  height="100px" borderadius=50%>
+        <h1 style="color:green" align="center">FarmConnect</h1>
+        <table cellspacing="60">
+            <tr>
+                <td>Home</td>
+        <td><a href="Aboutus.html">Aboutus</a></td>
+        <td><a href="farmer.html">Farmers</a></td>
+        <td><a href="buyers.html">Buyers</a></td>
+        <td>FAQ</td>
+        <td>Contactus</td>
+    </tr>
+    </table>
+    </body>
+</html>
